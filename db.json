@@ -11,7 +11,7 @@
   "vehiculos":[
   	{
 	"id": 1,
-	"placa:":"P 123ABC",
+	"placa:":"P-123ABC",
 	"marca":"Toyota",
 	"modelo":"Corolla",
 	"color":"Negro",
@@ -21,7 +21,7 @@
   	},
 	{
 	"id": 2,
-	"placa:":"P 456DEF",
+	"placa:":"P-456DEF",
 	"marca":"Toyota",
 	"modelo":"Yaris",
 	"color":"Verde",
@@ -31,7 +31,7 @@
   	},
 	{
 	"id": 3,
-	"placa:":"M 789GHI",
+	"placa:":"M-789GHI",
 	"marca":"Honda",
 	"modelo":"Invicta",
 	"color":"Rojo",
@@ -41,7 +41,7 @@
   	},
 	{
 	"id": 4,
-	"placa:":"P 987JKL",
+	"placa:":"P-987JKL",
 	"marca":"Nissan",
 	"modelo":"Versa",
 	"color":"Azul",
@@ -51,7 +51,7 @@
   	},
 	{
 	"id": 5,
-	"placa:":"P 654MNÑ",
+	"placa:":"P-654MNÑ",
 	"marca":"Toyota",
 	"modelo":"Hilux",
 	"color":"Gris",
