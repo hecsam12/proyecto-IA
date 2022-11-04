@@ -9,7 +9,7 @@
     "name": "typicode"
   },
   "vehiculos":[
-  {
+  	{
 	"id": 1,
 	"placa:":"P 123ABC",
 	"marca":"Toyota",
@@ -18,6 +18,46 @@
 	"fechacirculacion":"10/12/2010",
 	"paisorigen":"Japon",
 	"observaciones":"Nuevo"
-  }
+  	},
+	{
+	"id": 2,
+	"placa:":"P 456DEF",
+	"marca":"Toyota",
+	"modelo":"Yaris",
+	"color":"Verde",
+	"fechacirculacion":"08/01/2010",
+	"paisorigen":"Japon",
+	"observaciones":"Semi-Nuevo"
+  	},
+	{
+	"id": 3,
+	"placa:":"M 789GHI",
+	"marca":"Honda",
+	"modelo":"Invicta",
+	"color":"Rojo",
+	"fechacirculacion":"08/08/2012",
+	"paisorigen":"Japon",
+	"observaciones":"Motocicleta"
+  	},
+	{
+	"id": 4,
+	"placa:":"P 987JKL",
+	"marca":"Nissan",
+	"modelo":"Versa",
+	"color":"Azul",
+	"fechacirculacion":"25/08/2013",
+	"paisorigen":"China",
+	"observaciones":"2 puertas"
+  	},
+	{
+	"id": 5,
+	"placa:":"P 654MNÑ",
+	"marca":"Toyota",
+	"modelo":"Hilux",
+	"color":"Gris",
+	"fechacirculacion":"08/01/2010",
+	"paisorigen":"Japon",
+	"observaciones":"4x4"
+  	}
   ]
 }
