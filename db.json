@@ -10,14 +10,14 @@
   },
   "vehiculos":[
   {
-		"id": 1,
-		"placa:":"P 123ABC",
-		"marca":"Toyota",
-		"modelo":"Corolla",
-		"color":"Negro",
-		"fechacirculacion":"10/12/2010",
-		"paisorigen":"Japon",
-		"observaciones":"Nuevo"
-	}
+	"id": 1,
+	"placa:":"P 123ABC",
+	"marca":"Toyota",
+	"modelo":"Corolla",
+	"color":"Negro",
+	"fechacirculacion":"10/12/2010",
+	"paisorigen":"Japon",
+	"observaciones":"Nuevo"
+  }
   ]
 }
